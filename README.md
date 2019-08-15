@@ -1,8 +1,5 @@
 # liri-node-app
 
-liri-node-app
-#Liri Search Bot#
-
 This node application at it's core is a simple SWITCH CASE statement. From the command line run the liri.js file as you would any other Node.js & enter the following commands.
 
 Commands & corresponding images showing an example:
